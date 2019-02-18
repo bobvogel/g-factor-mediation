@@ -1,4 +1,4 @@
 # g-factor-mediation
 Putative causal relationship among polygenic scores, cortical surfaces, and general intelligence
 
-(https://www.google.com "Google's Homepage")
+https://www.google.com "Google's Homepage"
