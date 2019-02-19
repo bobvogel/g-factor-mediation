@@ -3,6 +3,7 @@
 ### Below, we will provide all Figures responding to Supplementary Tables S3-S6
 
 **Polygenic Scores on Cortical Thickness** 
+
 (see Supplementary Table S3)
 
 [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html) 
