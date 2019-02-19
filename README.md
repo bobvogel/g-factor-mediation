@@ -3,11 +3,11 @@ Putative causal relationship among polygenic scores, cortical surfaces, and gene
 
 <p align="center"> Polygenic Scores on Cortical Thickness 
 
-[IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html)
+  [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-      mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html)
 
-[IntegraMOODS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_CT/ALL_tstat_con1_thickness.html)
+  [IntegraMOODS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_CT/ALL_tstat_con1_thickness.html)
 
-Polygenic Scores on Surface Area
+  Polygenic Scores on Surface Area
 
 [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_SA/ALL_tstat_con1_area.html)
 
