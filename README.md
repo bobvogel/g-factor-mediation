@@ -1,5 +1,6 @@
-# g-factor-mediation
-Putative causal relationship among polygenic scores, cortical surfaces, and general intelligence
+# Supplementary Figures
+## Putative causal relationship among polygenic scores, cortical surfaces, and general intelligence
+### Below, we will provide all Figures responding to Supplementary Tables S3-S6
 
 **Polygenic Scores on Cortical Thickness**
 
