@@ -10,7 +10,7 @@ Bob O. Vogel, Stephan Ripke, Andreas Meyer-Lindenberg, Carolin Wackerhagen, Susa
 
 The association of PS<sub>i</sub> ranging from S1 to S10 on vertex-wise measures of cortical thickness ranging from P<sub>FWER-corrected</sub> < 0.05 (red) to P<sub>FWER-corrected</sub> < 0.01 (yellow). IMAGEN (N = 1,651) included sex, age, site and ethnicity as covariates. IntegraMooDS (N = 742) included subgroup, sex, age, site, and ethnicity as covariates (see Supplementary Table S3).
 
-* [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html) - PS<sub>1</sub> - PS<sub>10</sub> on Cortical Thickness
+* [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html) PS<sub>1</sub> - PS<sub>10</sub> on Cortical Thickness
 
 * [IntegraMOODS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_CT/ALL_tstat_con1_thickness.html)
 
