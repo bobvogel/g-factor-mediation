@@ -12,28 +12,28 @@ The association of PS<sub>i</sub> ranging from S1 to S10 on vertex-wise measures
 
 * [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html) PS<sub>1</sub> - PS<sub>10</sub> on Cortical Thickness
 
-* [IntegraMOODS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_CT/ALL_tstat_con1_thickness.html)
+* [IntegraMOODS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_CT/ALL_tstat_con1_thickness.html) PS<sub>1</sub> - PS<sub>10</sub> on Cortical Thickness
 
 ### Polygenic Scores on Surface Area 
 The association of PS<sub>i</sub> ranging from S1 to S10 on vertex-wise measures of surface area ranging from P<sub>FWER-corrected</sub> < 0.05 (red) to P<sub>FWER-corrected</sub> < 0.01 (yellow). IMAGEN (N = 1,651) included sex, age, site and ethnicity as covariates. IntegraMooDS (N = 742) included subgroup, sex, age, site, and ethnicity as covariates (see Supplementary Table S4).
 
-[IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_SA/ALL_tstat_con1_area.html)
+* [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_SA/ALL_tstat_con1_area.html) PS<sub>1</sub> - PS<sub>10</sub> on Surface Area
 
-[IntegraMooDS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_SA/ALL_tstat_con1_area.html)
+* [IntegraMooDS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_SA/ALL_tstat_con1_area.html) PS<sub>1</sub> - PS<sub>10</sub> on Surface Area
 
 ### Polygenic Scores on g-factor via Cortical Thickness 
 The association of PS<sub>i</sub> ranging from S1 to S10 on g-factor via vertex-wise measures of cortical thickness ranging from P<sub>FWER-corrected</sub> < 0.05 (red) to P<sub>FWER-corrected</sub> < 0.01 (yellow). IMAGEN (N = 1,651) included sex, age, site and ethnicity as covariates. IntegraMooDS (N = 742) included subgroup, sex, age, site, and ethnicity as covariates (see Supplementary Table S5).
 
-[IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_CT/ALL_SobelZ_M_thickness.html)
+* [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_CT/ALL_SobelZ_M_thickness.html) PS<sub>1</sub> - PS<sub>10</sub> on g-factor via Cortical Thickness
 
-[IntegraMooDS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_CT/ALL_SobelZ_M_thickness.html)
+* [IntegraMooDS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_CT/ALL_SobelZ_M_thickness.html) PS<sub>1</sub> - PS<sub>10</sub> on g-factor via Cortical Thickness
 
 ### Polygenic Scores on g-factor via Surface Area 
 The association of PS<sub>i</sub> ranging from S1 to S10 on g-factor via vertex-wise measures of surface area ranging from P<sub>FWER-corrected</sub> < 0.05 (red) to P<sub>FWER-corrected</sub> < 0.01 (yellow). IMAGEN (N = 1,651) included sex, age, site and ethnicity as covariates. IntegraMooDS (N = 742) included subgroup, sex, age, site, and ethnicity as covariates (see Supplementary Table S6).
 
-[IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_SA/ALL_SobelZ_M_area.html)
+* [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_SA/ALL_SobelZ_M_area.html) PS<sub>1</sub> - PS<sub>10</sub> on g-factor via Surface Area
 
-[IntegraMooDS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_SA/ALL_SobelZ_M_area.html)
+* [IntegraMooDS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_SA/ALL_SobelZ_M_area.html) PS<sub>1</sub> - PS<sub>10</sub> on g-factor via Surface Area
 
 </p>
 
