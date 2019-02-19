@@ -34,3 +34,6 @@ Bob O. Vogel, Stephan Ripke, Andreas Meyer-Lindenberg, Carolin Wackerhagen, Susa
 [IntegraMooDS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_SA/ALL_SobelZ_M_area.html)
 
 </p>
+
+[Link to Paper "Putative causal relationship among polygenic scores, cortical surfaces, and general intelligence"](http://www.google.com) 
+[Link to Supplementary Tables S3-S6](http://www.google.com)
