@@ -4,9 +4,9 @@ Bob O. Vogel, Stephan Ripke, Andreas Meyer-Lindenberg, Carolin Wackerhagen, Susa
 
 *Corresponding author: Tristram Lett, tristram.lett@charite.de, Division of Mind and Brain Research, Department of Psychiatry and Psychotherapy CCM, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
 
-### Below, we will provide all Figures corresponding to the cluster results provided in Supplementary Tables S3-S6
+## Below, we will provide all Figures corresponding to the cluster results provided in Supplementary Tables S3-S6
 
-**Polygenic Scores on Cortical Thickness** (see Supplementary Table S3)
+### Polygenic Scores on Cortical Thickness (see Supplementary Table S3)
 
 [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html) 
 
