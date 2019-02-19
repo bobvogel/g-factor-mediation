@@ -1,7 +1,7 @@
 # g-factor-mediation
 Putative causal relationship among polygenic scores, cortical surfaces, and general intelligence
 
-<p align="center"> Polygenic Scores on Cortical Thickness </p>
+<p align="center"> Polygenic Scores on Cortical Thickness 
 
 [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html)
 
@@ -21,8 +21,8 @@ Polygenic Scores on g-factor via Cortical Thickness
 
 Polygenic Scores on g-factor via Surface Area 
 
-[Polygenic scores on g-factor via Surface Area](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_SA/ALL_SobelZ_M_area.html)
+[IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_SA/ALL_SobelZ_M_area.html)
 
-[Polygenic scores on g-factor via Surface Area](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_SA/ALL_SobelZ_M_area.html)
+[IntegraMooDS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_SA/ALL_SobelZ_M_area.html)
 
 </p>
