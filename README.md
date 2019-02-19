@@ -7,25 +7,28 @@ Bob O. Vogel, Stephan Ripke, Andreas Meyer-Lindenberg, Carolin Wackerhagen, Susa
 ## Below, we will provide all Figures corresponding to the cluster results provided in Supplementary Tables S3-S6
 
 ### Polygenic Scores on Cortical Thickness
-(see Supplementary Table S3)
+The association of PS<sub>i</sub> ranging from S1 to S10 on vertex-wise measures of cortical thickness ranging from P<sub>FWER-corrected</sub> < 0.05 (red) to P<sub>FWER-corrected</sub> < 0.01 (yellow). IMAGEN (N = 1,651) included sex, age, site and ethnicity as covariates. IntegraMooDS (N = 742) included subgroup, sex, age, site, and ethnicity as covariates. (see Supplementary Table S3)
 
 [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html) 
 
 [IntegraMOODS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_CT/ALL_tstat_con1_thickness.html)
 
-### Polygenic Scores on Surface Area (see Supplementary Table S4)
+### Polygenic Scores on Surface Area 
+(see Supplementary Table S4)
 
 [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_SA/ALL_tstat_con1_area.html)
 
 [IntegraMooDS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_SA/ALL_tstat_con1_area.html)
 
-### Polygenic Scores on g-factor via Cortical Thickness (see Supplementary Table S5)
+### Polygenic Scores on g-factor via Cortical Thickness 
+(see Supplementary Table S5)
 
 [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_CT/ALL_SobelZ_M_thickness.html)
 
 [IntegraMooDS](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_CT/ALL_SobelZ_M_thickness.html)
 
-### Polygenic Scores on g-factor via Surface Area (see Supplementary Table S6)
+### Polygenic Scores on g-factor via Surface Area 
+(see Supplementary Table S6)
 
 [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_SA/ALL_SobelZ_M_area.html)
 
