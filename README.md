@@ -1,7 +1,8 @@
 # Supplementary Figures
 ## Putative causal relationship among polygenic scores, cortical surfaces, and general intelligence
-Tristram A. Lett#*, Bob O. Vogel#, Swapnil Awasthi, Stephan Ripke, Andreas Meyer-Lindenberg, Carolin Wackerhagen, Susanne Erk, Ilya Veer, Swapnil Awasthi, Vassily Trubetskoy,  Eva J. Brandl, Sebastian Mohnke, Markus M. Nöthen, Marcella Rietschel, Franziska Degenhardt, Nina Romanczuk-Seiferth, Stephanie H. Witt, Tobias Banaschewski, Gareth J. Barker, Arun L.W. Bokde, Uli Bromberg, Christian Büchel, Erin B. Quinlan, Sylvane Desrivières, Herta Flor, Vincent Frouin, Hugh Garavan, Penny Gowland, Bernd Ittermann, Jean-Luc Martinot, Marie-Laure Paillère Martinot, Frauke Nees, Dimitri Papadopoulos Orfanos, Tomáš Paus, Luise Poustka, Juliane H. Fröhner, Michael N. Smolka, Robert Whelan, Gunter Schumann and the IMAGEN consortium, Heike Tost, Andreas Heinz, Henrik Walter
-"#" Shared first authorship
+Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stephan Ripke, Andreas Meyer-Lindenberg, Carolin Wackerhagen, Susanne Erk, Ilya Veer, Swapnil Awasthi, Vassily Trubetskoy,  Eva J. Brandl, Sebastian Mohnke, Markus M. Nöthen, Marcella Rietschel, Franziska Degenhardt, Nina Romanczuk-Seiferth, Stephanie H. Witt, Tobias Banaschewski, Gareth J. Barker, Arun L.W. Bokde, Uli Bromberg, Christian Büchel, Erin B. Quinlan, Sylvane Desrivières, Herta Flor, Vincent Frouin, Hugh Garavan, Penny Gowland, Bernd Ittermann, Jean-Luc Martinot, Marie-Laure Paillère Martinot, Frauke Nees, Dimitri Papadopoulos Orfanos, Tomáš Paus, Luise Poustka, Juliane H. Fröhner, Michael N. Smolka, Robert Whelan, Gunter Schumann and the IMAGEN consortium, Heike Tost, Andreas Heinz, Henrik Walter
+
+<h3>#</h3> Shared first authorship
 
 *Corresponding author: Tristram Lett, tristram.lett@charite.de, Division of Mind and Brain Research, Department of Psychiatry and Psychotherapy CCM, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
 
