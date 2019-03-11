@@ -24,7 +24,7 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
     <th class="tg-c3ow" colspan="2">Surface Area</th>
   </tr>
   <tr>
-    <td class="tg-0pky">P<sub>FWER-corrected</sub> &lt; 0.05<br></td>
+    <td class="tg-0pky">PFWER-corrected &lt; 0.05<br></td>
     <td class="tg-c3ow">IMAGEN</td>
     <td class="tg-c3ow">IntegraMooDS</td>
     <td class="tg-c3ow">IMAGEN</td>
@@ -44,17 +44,17 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
   </tr>
   <tr>
     <td class="tg-0pky">PFWER-corrected &lt; 0.05</td>
-    <td class="tg-0pky">IMAGEN</td>
-    <td class="tg-0pky">IntegraMooDS</td>
-    <td class="tg-0pky">IMAGEN</td>
-    <td class="tg-0pky">IntegraMooDS</td>
+    <td class="tg-c3ow">IMAGEN</td>
+    <td class="tg-c3ow">IntegraMooDS</td>
+    <td class="tg-c3ow">IMAGEN</td>
+    <td class="tg-c3ow">IntegraMooDS</td>
   </tr>
   <tr>
     <td class="tg-0pky">PFWER-corrected &lt; 0.005</td>
-    <td class="tg-0pky">IMAGEN</td>
-    <td class="tg-0pky">IntegraMooDS</td>
-    <td class="tg-0pky">IMAGEN</td>
-    <td class="tg-0pky">IntegraMooDS</td>
+    <td class="tg-c3ow">IMAGEN</td>
+    <td class="tg-c3ow">IntegraMooDS</td>
+    <td class="tg-c3ow">IMAGEN</td>
+    <td class="tg-c3ow">IntegraMooDS</td>
   </tr>
 </table>
 
