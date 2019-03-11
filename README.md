@@ -10,6 +10,12 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
 
 ### Polygenic Scores on Cortical Thickness
 
+| Main Effect                        |      Cortical Thickness      ||  Surface Area ||
+| P<sub>FWER-corrected</sub> < 0.05  |  IMAGEN       | IntegraMooDS |IMAGEN | IntegraMooDS|
+| P<sub>FWER-corrected</sub> < 0.005 |  IMAGEN       | IntegraMooDS |IMAGEN | IntegraMooDS|
+| P<sub>FWER-corrected</sub> < 0.05  |  IMAGEN       | IntegraMooDS |IMAGEN | IntegraMooDS|
+| P<sub>FWER-corrected</sub> < 0.005 |  IMAGEN       | IntegraMooDS |IMAGEN | IntegraMooDS|
+
 The association of PS<sub>i</sub> ranging from S1 to S10 on vertex-wise measures of cortical thickness ranging from P<sub>FWER-corrected</sub> < 0.05 (red) to P<sub>FWER-corrected</sub> < 0.01 (yellow). IMAGEN (N = 1,651) included sex, age, site and ethnicity as covariates. IntegraMooDS (N = 742) included subgroup, sex, age, site, and ethnicity as covariates (see Supplementary Table S3).
 
 * [IMAGEN](http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html) PS<sub>1</sub> - PS<sub>10</sub> on Cortical Thickness
