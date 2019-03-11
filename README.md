@@ -10,7 +10,7 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
 
 ### Polygenic Scores on Cortical Thickness
 
-| Command | Description |
+| Main Effect | Cortical Thickness || Surface Area ||
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
