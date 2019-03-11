@@ -10,12 +10,7 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
 
 ### Polygenic Scores on Cortical Thickness
 
-| Main Effect | Cortical Thickness || Surface Area ||
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
-
-[Prototype table]
+| Span <td colspan=3>triple  <td colspan=2>double |
 
 The association of PS<sub>i</sub> ranging from S1 to S10 on vertex-wise measures of cortical thickness ranging from P<sub>FWER-corrected</sub> < 0.05 (red) to P<sub>FWER-corrected</sub> < 0.01 (yellow). IMAGEN (N = 1,651) included sex, age, site and ethnicity as covariates. IntegraMooDS (N = 742) included subgroup, sex, age, site, and ethnicity as covariates (see Supplementary Table S3).
 
