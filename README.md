@@ -10,31 +10,52 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
 
 ### Polygenic Scores on Cortical Thickness
 
-<table>
-    <thead>
-        <tr>
-            <th>Layer 1</th>
-            <th>Layer 2</th>
-            <th>Layer 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td rowspan=4>L1 Name</td>
-            <td rowspan=2>L2 Name A</td>
-            <td>L3 Name A</td>
-        </tr>
-        <tr>
-            <td>L3 Name B</td>
-        </tr>
-        <tr>
-            <td rowspan=2>L2 Name B</td>
-            <td>L3 Name C</td>
-        </tr>
-        <tr>
-            <td>L3 Name D</td>
-        </tr>
-    </tbody>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Main Effect</th>
+    <th class="tg-c3ow" colspan="2">Cortical Thickness </th>
+    <th class="tg-c3ow" colspan="2">Surface Area</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">P<sub>FWER-corrected</sub> &lt; 0.05<br></td>
+    <td class="tg-c3ow">IMAGEN</td>
+    <td class="tg-c3ow">IntegraMooDS</td>
+    <td class="tg-c3ow">IMAGEN</td>
+    <td class="tg-c3ow">IntegraMooDS</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">PFWER-corrected &lt; 0.005</td>
+    <td class="tg-c3ow">IMAGEN</td>
+    <td class="tg-c3ow">IntegraMooDS</td>
+    <td class="tg-c3ow">IMAGEN</td>
+    <td class="tg-c3ow">IntegraMooDS</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Indirect Effect</td>
+    <td class="tg-c3ow" colspan="2">Cortical Thickness</td>
+    <td class="tg-c3ow" colspan="2">Surface Area</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">PFWER-corrected &lt; 0.05</td>
+    <td class="tg-0pky">IMAGEN</td>
+    <td class="tg-0pky">IntegraMooDS</td>
+    <td class="tg-0pky">IMAGEN</td>
+    <td class="tg-0pky">IntegraMooDS</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">PFWER-corrected &lt; 0.005</td>
+    <td class="tg-0pky">IMAGEN</td>
+    <td class="tg-0pky">IntegraMooDS</td>
+    <td class="tg-0pky">IMAGEN</td>
+    <td class="tg-0pky">IntegraMooDS</td>
+  </tr>
 </table>
 
 The association of PS<sub>i</sub> ranging from S1 to S10 on vertex-wise measures of cortical thickness ranging from P<sub>FWER-corrected</sub> < 0.05 (red) to P<sub>FWER-corrected</sub> < 0.01 (yellow). IMAGEN (N = 1,651) included sex, age, site and ethnicity as covariates. IntegraMooDS (N = 742) included subgroup, sex, age, site, and ethnicity as covariates (see Supplementary Table S3).
