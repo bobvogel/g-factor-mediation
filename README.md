@@ -11,6 +11,7 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
 ### Polygenic Scores on Cortical Thickness
 
 | Main Effect                        |      Cortical Thickness      ||  Surface Area ||
+|----------|:-------------:|------:|
 | P<sub>FWER-corrected</sub> < 0.05  |  IMAGEN       | IntegraMooDS |IMAGEN | IntegraMooDS|
 | P<sub>FWER-corrected</sub> < 0.005 |  IMAGEN       | IntegraMooDS |IMAGEN | IntegraMooDS|
 | P<sub>FWER-corrected</sub> < 0.05  |  IMAGEN       | IntegraMooDS |IMAGEN | IntegraMooDS|
