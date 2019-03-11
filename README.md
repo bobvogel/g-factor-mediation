@@ -18,6 +18,8 @@ Content       |   **Cell**    |         Cell |
 
 New section   |     More      |         Data |
 And more      | With an escaped '\|'         ||  
+
+
 [Prototype table]
 
 The association of PS<sub>i</sub> ranging from S1 to S10 on vertex-wise measures of cortical thickness ranging from P<sub>FWER-corrected</sub> < 0.05 (red) to P<sub>FWER-corrected</sub> < 0.01 (yellow). IMAGEN (N = 1,651) included sex, age, site and ethnicity as covariates. IntegraMooDS (N = 742) included subgroup, sex, age, site, and ethnicity as covariates (see Supplementary Table S3).
