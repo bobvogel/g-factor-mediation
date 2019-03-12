@@ -8,10 +8,9 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
 
 ## Below, we will provide all Figures corresponding to the cluster results provided in Supplementary Tables S3-S6 at two different p-thresholds
 
-
-<center>
-  
-<table>
+ 
+<table align="center">
+<table style="width: 60%; margin:0 left;text-align: left;">  
   <tr>
     <th>Main Effect</th>
     <th colspan="2">Cortical Thickness</th>
@@ -52,7 +51,6 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
   </tr>
 </table>
 
-</center>
 
 **Table S8** The association of PS<sub>i</sub> ranging from S1 to S10 on vertex-wise measures of cortical thickness and surface area for different  P<sub>FWER-corrected</sub> thresholds. P<sub>FWER-corrected</sub> < 0.05 represents the family-wise error rate corrected threshold, P<sub>FWER-corrected</sub> < 0.005 represents the family-wise error rate as well as Bonferroni corrected threshold for ten multiple comparisons (ten PS<sub>i</sub> thresholds. IMAGEN (N = 1,651) included sex, age, site and four population stratification principal components as covariates. IntegraMooDS (N = 742) included subgroup, sex, age, site, and four population stratification principal components as covariates (see Supplementary Table S3).
 
