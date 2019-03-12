@@ -19,7 +19,7 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
   </tr>
   <tr>
     <td>PFWE</td>
-    <td><a href="htmlpreview.github.io/?https://github.com/bobvogel/g-factor-   mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html">IMAGEN</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html">IMAGEN</a></td>
     <td>IntegraMooDS</td>
     <td>IMAGEN</td>
     <td>IntegraMooDS</td>
