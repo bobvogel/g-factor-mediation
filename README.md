@@ -18,14 +18,14 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
     <th colspan="2">Surface Area</th>
   </tr>
   <tr>
-    <td>PFWE</td>
+    <td>P<sub>FWER-corrected</sub> < 0.05 </td>
     <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html">IMAGEN</a></td>
     <td>IntegraMooDS</td>
     <td>IMAGEN</td>
     <td>IntegraMooDS</td>
   </tr>
   <tr>
-    <td>PFWE</td>
+    <td>P<sub>FWER-corrected</sub> < 0.005</td>
     <td>IMAGEN</td>
     <td>IntegraMooDS</td>
     <td>IMAGEN</td>
@@ -37,14 +37,14 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
     <th colspan="2">Surface Area</th>
   </tr>
   <tr>
-    <td>PFWE</td>
+    <td>P<sub>FWER-corrected</sub> < 0.05</td>
     <td>IMAGEN</td>
     <td>IntegraMooDS</td>
     <td>IMAGEN</td>
     <td>IntegraMooDS</td>
   </tr>
   <tr>
-    <td>PFWE</td>
+    <td>P<sub>FWER-corrected</sub> < 0.005</td>
     <td>IMAGEN</td>
     <td>IntegraMooDS</td>
     <td>IMAGEN</td>
