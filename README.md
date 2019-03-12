@@ -9,8 +9,7 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
 ## Below, we will provide all Figures corresponding to the cluster results provided in Supplementary Tables S3-S6 at two different p-thresholds
 
  
-<table align="center">
-<table style="width: 60%; margin:0 left;text-align: left;">  
+<table>
   <tr>
     <th>Main Effect</th>
     <th colspan="2">Cortical Thickness</th>
