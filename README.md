@@ -10,8 +10,7 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
 
 ### Polygenic Scores on Cortical Thickness
 
-
-<table>
+<table align="center">
   <tr>
     <th>Main Effect</th>
     <th colspan="2">Cortical Thickness</th>
