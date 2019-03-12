@@ -10,6 +10,7 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
 
 ### Polygenic Scores on Cortical Thickness
 
+
 <table><tr><th>Main Effect</th><th colspan="2">Cortical Thickness</th><th colspan="2">Surface Area</th></tr><tr><td>PFWE</td><td>IMAGEN</td><td>IntegraMooDS</td><td>IMAGEN</td><td>IntegraMooDS</td></tr><tr><td>PFWE</td><td>IMAGEN</td><td>IntegraMooDS</td><td>IMAGEN</td><td>IntegraMooDS</td></tr><tr><td>Indirect Effect</td><td colspan="2">Cortical Thickness</td><td colspan="2">Surface Area</td></tr><tr><td>PFWE</td><td>IMAGEN</td><td>IntegraMooDS</td><td>IMAGEN</td><td>IntegraMooDS</td></tr><tr><td>PFWE</td><td>IMAGEN</td><td>IntegraMooDS</td><td>IMAGEN</td><td>IntegraMooDS</td></tr></table>
 
 
