@@ -45,8 +45,8 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
     <td>P<sub>FWER-corrected</sub> < 0.005</td>
     <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_CT_CORRECTED/IMAGEN_MEDIATION_CT_CORRECTED.html">IMAGEN</a></td>
     <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_CT_CORRECTED/INTEGRAMOODS_MEDIATION_CT_CORRECTED.html">IntegraMooDS</a></td>
-    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_SA/IMAGEN_MEDIATION_SA.html">IMAGEN</a></td>
-    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_SA/INTEGRAMOODS_MEDIATION_SA.html">IntegraMooDS</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_SA_CORRECTED/IMAGEN_MEDIATION_SA_CORRECTED.html">IMAGEN</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_SA_CORRECTED/INTEGRAMOODS_MEDIATION_SA_CORRECTED.html">IntegraMooDS</a></td>
   </tr>
 </table>
 
