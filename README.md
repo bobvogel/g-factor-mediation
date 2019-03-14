@@ -57,4 +57,4 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
 
 * [Original Publication](http://www.google.com) - "Putative causal relationship among polygenic scores, cortical surfaces, and general intelligence" 
 
-* [Link to Supplementary Tables S3-S6](http://www.google.com) - Supplementary Tables S3-S6
+* [Link to Supplementary Tables S3-S6](http://www.google.com) - Supplementary Tables S3-S7
