@@ -24,9 +24,9 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
   </tr>
   <tr>
     <td>P<sub>FWER-corrected</sub> < 0.005</td>
-    <td>IMAGEN</td>
-    <td>IntegraMooDS</td>
-    <td>IMAGEN</td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT_CORRECTED/IMAGEN_MAINEFFECT_CT_CORRECTED.html">IMAGEN</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_CT_CORRECTED/INTEGRAMOODS_MAINEFFECT_CT_CORRECTED.html">IntegraMooDS</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_SA_CORRECTED/IMAGEN_MAINEFFECT_SA_CORRECTED.html">IMAGEN</a></td>
     <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_SA_CORRECTED/INTEGRAMOODS_MAINEFFECT_SA_CORRECTED.html">IntegraMooDS</a></td>
   </tr>
   <tr>
@@ -36,17 +36,17 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
   </tr>
   <tr>
     <td>P<sub>FWER-corrected</sub> < 0.05</td>
-    <td>IMAGEN</td>
-    <td>IntegraMooDS</td>
-    <td>IMAGEN</td>
-    <td>IntegraMooDS</td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_CT/IMAGEN_MEDIATION_CT.html">IMAGEN</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_CT/INTEGRAMOODS_MEDIATION_CT.html">IntegraMooDS</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_SA/IMAGEN_MEDIATION_SA.html">IMAGEN</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_SA/INTEGRAMOODS_MEDIATION_SA.html">IntegraMooDS</a></td>
   </tr>
   <tr>
     <td>P<sub>FWER-corrected</sub> < 0.005</td>
-    <td>IMAGEN</td>
-    <td>IntegraMooDS</td>
-    <td>IMAGEN</td>
-    <td>IntegraMooDS</td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_CT_CORRECTED/IMAGEN_MEDIATION_CT_CORRECTED.html">IMAGEN</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_CT_CORRECTED/INTEGRAMOODS_MEDIATION_CT_CORRECTED.html">IntegraMooDS</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MEDIATION_SA/IMAGEN_MEDIATION_SA.html">IMAGEN</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MEDIATION_SA/INTEGRAMOODS_MEDIATION_SA.html">IntegraMooDS</a></td>
   </tr>
 </table>
 
