@@ -27,7 +27,7 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
     <td>IMAGEN</td>
     <td>IntegraMooDS</td>
     <td>IMAGEN</td>
-    <td>IntegraMooDS</td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_SA_CORRECTED/INTEGRAMOODS_MAINEFFECT_SA_CORRECTED.html">IntegraMooDS</a></td>
   </tr>
   <tr>
     <th>Indirect Effect</th>
