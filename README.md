@@ -17,9 +17,9 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
   </tr>
   <tr>
     <td>P<sub>FWER-corrected</sub> < 0.05 </td>
-    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/ALL_tstat_con1_thickness.html">IMAGEN</a></td>
-    <td>IntegraMooDS</td>
-    <td>IMAGEN</td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_CT/IMAGEN_MAINEFFECT_CT.html">IMAGEN</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_CT/INTEGRAMOODS_MAINEFFECT_CT.html">IntegraMooDS</a></td>
+    <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/IMAGEN_MAINEFFECT_SA/IMAGEN_MAINEFFECT_SA.html">IMAGEN</a></td>
     <td><a href="http://htmlpreview.github.io/?https://github.com/bobvogel/g-factor-mediation/blob/master/INTEGRAMOODS_MAINEFFECT_SA/INTEGRAMOODS_MAINEFFECT_SA.html">IntegraMooDS</a></td>
   </tr>
   <tr>
