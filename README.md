@@ -6,7 +6,7 @@ Tristram A. Lett<sup>#</sup>*, Bob O. Vogel<sup>#</sup>, Swapnil Awasthi, Stepha
 
 *Corresponding author: Tristram Lett, tristram.lett@charite.de, Division of Mind and Brain Research, Department of Psychiatry and Psychotherapy CCM, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.
 
-## Below, we will provide vertex-wise results corresponding to the cluster results provided in Supplementary Tables S4-S7 at two different p-thresholds (P<sub>FWER-corrected</sub> < 0.05 & P<sub>FWER-corrected</sub> < 0.005)
+## Below, we will provide vertex-wise results corresponding to the cluster results provided in Supplementary Tables S4-S7 at P<sub>FWER-corrected</sub> < 0.05 & P<sub>FWER-corrected</sub> < 0.005
 
  
 <table>
